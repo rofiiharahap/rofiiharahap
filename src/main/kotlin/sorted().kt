@@ -1,5 +1,5 @@
 fun main() {
-    val numberList = listOf(1, 3, 2, 6, 5, 4)
+    var numberList = listOf(1, 3, 2, 6, 5, 4)
     val hackerChar = listOf('h', 'a', 'c', 'k', 'e', 'r')
 
     val ascendingShort1 = numberList.sorted()
